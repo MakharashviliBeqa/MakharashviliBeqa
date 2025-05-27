@@ -1,6 +1,6 @@
 ## 👋 Hey there
 
-I'm Makharashvili Beqa — a curious beginner diving into **cybersecurity**.  
+I'm Beqa — a curious beginner diving into **cybersecurity**.  
 Currently learning the basics, exploring tools, and building skills step by step.
 
 ---
